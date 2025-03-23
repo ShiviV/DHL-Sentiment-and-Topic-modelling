@@ -19,7 +19,7 @@ Topic Modeling: Identifies and extracts key topics within feedback data (e.g., d
 Data Visualization: Visualize sentiment distribution and topic trends.
 
 Files Overview
-1. sentiment_analysis.py
+1. sentiment_analysis.ipynb
 This script performs sentiment analysis on the customer feedback. It processes the input text and classifies the feedback into one of the following sentiments:
 
 Positive
@@ -49,9 +49,6 @@ Installation
 Prerequisites
 Ensure that you have Python 3.x installed along with pip (Python package installer).
 
-Clone the repository:
-git clone https://github.com/yourusername/customer-feedback-analysis.git
-cd customer-feedback-analysis
 
 
 Install dependencies: Create a virtual environment (optional but recommended) and install required libraries from the requirements.txt file.
