@@ -34,7 +34,7 @@ Preprocesses the text (tokenization, stopword removal, etc.).
 
 Uses a sentiment analysis model or library (e.g., VADER, TextBlob) to analyze the text.
 
-2. topic_modelling.py
+2. topic_modelling.ipynb
 This script uses Topic Modeling techniques, such as Latent Dirichlet Allocation (LDA), to identify the main topics in the feedback. The goal is to uncover hidden topics that customers are discussing, such as issues with delivery, customer service, or pricing.
 
 Key Steps:
